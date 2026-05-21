@@ -15,6 +15,8 @@ contact@WilliamAshley.music
 
 This plugin is cool as I started to try to emulate the magic eye tube which is super cool, hopefully I can get it right eventually on the gui.
 
+The concept of this one is to acutally display and allow you to manipulate the tube settings and appearance as the "user interface" some work still need apply idea is sort of to use it like a therimin or one of those electrostatic tesla balls that shoot out electrical connections when you get near it like capacitive interactions with the magic eye tube appearance :) 
+
 This is the second version of this.. its gui still isn't fully developed but i have an idea for it, its somewhat working but there are more knob functions that have to be refined and the GUI cleaned up a bit. I totally know what I want to do with this though
 
 
